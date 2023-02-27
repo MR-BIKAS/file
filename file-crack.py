@@ -134,11 +134,11 @@ logo= """
    \033[1;39m      ░    ░  ▒ ░░ ░░ ░  ░   ▒   ░  ░  ░   ░  ░░ ░
    \033[1;37m      ░       ░  ░  ░        ░  ░      ░   ░  ░  ░
    \033[1;32m      ░                                      
-\033[1;97m[+]\033[1;91m    AUTHOR   \033[1;90m: \033[1;92mBIKASH x SUNEEL
-\033[1;97m[+]\033[1;32m    GITHUB \033[1;90m: \033[1;92mMR-BIKASH
-\033[1;97m[+]\033[1;33m    WHATSAPP \033[1;90m: \033[1;92m+9779742524177
-\033[1;97m[+]\033[1;31m.    STATUS \033[1;90m: \033[1;92mFREE
-\033[1;97m[+]\033[1;37m.    VERSION \033[1;90m: \033[1;92m0.1
+\033[1;97m[+]\033[1;91m     AUTHOR   \033[1;90m: \033[1;92mBIKASH x SUNEEL
+\033[1;97m[+]\033[1;32m     GITHUB \033[1;90m: \033[1;92mMR-BIKASH
+\033[1;97m[+]\033[1;33m     WHATSAPP \033[1;90m: \033[1;92m+9779742524177
+\033[1;97m[+]\033[1;31m     STATUS \033[1;90m: \033[1;92mFREE
+\033[1;97m[+]\033[1;37m     VERSION \033[1;90m: \033[1;92m0.1
 \033[1;37m════════════════════════════════════════════════
 \x1b[31;1m   \x1b[47;2mSUPPORTER\x1b[00;1m\x1b[31;1m \x1b[31;1m \x1b[47;2mSUNEEL\x1b[00;1m\x1b[31;1mTHANK YOU YR❤😍\x1b[00;1m\x1b[31;1m
 \033[1;37m════════════════════════════════════════════════
@@ -180,10 +180,10 @@ def ckx():
 def Spy():
 	clear()
 	#ckx()
-	print(f" [1] FILE Cloner (BEST) ")
-	print(f" [2] BD Random Cloner ")
-	print(f" [3] Gmail Cloning")
-	print(f" [0] Exit")
+	print(m" [1] FILE Cloner (BEST) ")
+	print(m" [2] BD Random Cloner ")
+	print(m" [3] Gmail Cloning")
+	print(m" [0] Exit")
 	me=input(f' Choice : ')
 	if me in ["2", "02"]:
 		bd()
